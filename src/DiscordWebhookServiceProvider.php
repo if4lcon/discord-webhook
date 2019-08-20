@@ -1,6 +1,6 @@
 <?php
 
-namespace NotificationChannels\Webhook;
+namespace NotificationChannels\DiscordWebhook;
 
 use Illuminate\Notifications\ChannelManager;
 use Illuminate\Support\ServiceProvider;
