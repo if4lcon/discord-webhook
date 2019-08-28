@@ -1,4 +1,4 @@
-# Discord Webhook Notifications Channel for Laravel 5.3
+# Discord Webhook notifications channel for Laravel 5.3 ~ 5.8
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/ccoeder/discord-webhook.svg?style=flat-square)](https://packagist.org/packages/ccoeder/discord-webhook)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
