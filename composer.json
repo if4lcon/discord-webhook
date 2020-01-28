@@ -1,5 +1,5 @@
 {
-    "name": "ccoeder/discord-webhook",
+    "name": "if4lcon/discord-webhook",
     "description": "Discord Webhook notifications channel for Laravel 5.8",
     "homepage": "https://github.com/ccoeder/discord-webhook",
     "license": "MIT",
